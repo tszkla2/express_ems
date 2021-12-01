@@ -1,0 +1,6 @@
+- Create an Express Employee Management System App
+- The whole app works through postman
+- It does not need to persist data (optional extension through file)
+- Create routes for reading all employee, reading a specific employee,
+    adding, updating, and deleting employee
+- Optional Logging
